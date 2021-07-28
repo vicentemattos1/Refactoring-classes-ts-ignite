@@ -23,6 +23,14 @@
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
       "available": true,
       "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Molho teste",
+      "price": "18.56",
+      "description": "Um molho de teste bem gostoso",
+      "available": true,
+      "id": 5
     }
   ]
 }
