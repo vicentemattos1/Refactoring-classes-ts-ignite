@@ -27,8 +27,8 @@
     {
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
       "name": "Molho teste",
-      "price": "18.56",
-      "description": "Um molho de teste bem gostoso",
+      "price": "170.20",
+      "description": "O melhor molho teste da cidade",
       "available": true,
       "id": 5
     }
